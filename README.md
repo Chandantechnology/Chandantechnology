@@ -1,4 +1,4 @@
-DOCTYPE html>
+<!DOCTYPE html>
 <html lang="en">
   <head>
     <meta charset="UTF-8">
@@ -88,6 +88,7 @@ body{
 }
 }
 }
+
 
 <!---
 Chandantechnology/Chandantechnology is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
