@@ -1,0 +1,15 @@
+// Online C++ compiler to run C++ program online
+#include <iostream>
+using namespace std;
+int main() {
+    int i=1,n;
+    cout<<" enter the value of n: ";
+    cin>>n;
+    while(i<=n)
+    {
+        cout<<"Bande mataram"<<"\n";
+        n+=1;
+    }
+
+    return 0;
+}
