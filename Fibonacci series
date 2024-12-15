@@ -1,0 +1,29 @@
+// fibonacii series
+#include<iostream>
+using namespace std;
+int main()
+{
+    int a=0,b=1,i=1,n,c;
+    cout<<"enter the value of n :";
+    cin>>n;
+    if(n<1){
+        cout<<"invalid";
+    }
+    else{
+        cout<<a<<" ";
+        cout<<b<<" ";
+    
+  
+        
+    
+    while(i<=n){
+        
+    
+        c=a+b;
+        a=b;
+        b=c;
+        i++;
+    cout<<c<<" ";
+    }
+}
+}
