@@ -1,0 +1,16 @@
+// Online C++ compiler to run C++ program online
+#include <iostream>
+using namespace std;
+
+int main() {
+    int x,y,z,t;
+    cout<<"enter the value of x:";
+    cin>>x;
+    cout<<"enter the value of y:";
+    cin>>y;
+    z=x+y;
+    t=x*y;
+    cout<<"sum of x="<<x<<" and y="<<y<<"  is  :"<<z<<"\n";
+     cout<<"product of x="<<x<<" and y="<<y<<"  is   :"<<t;
+    return 0;
+}
